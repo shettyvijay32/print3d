@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
         - name: admin
-          image: YOUR_DOCKERHUB_USERNAME/printora-admin:1.0
+          image: vijaytechnologies/print3dapp-admin:1.0
           imagePullPolicy: Always
           ports:
             - containerPort: 80
