@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: YOUR_DOCKERHUB_USERNAME/printora-api:1.0
+          image: vijaytechnologies/print3dapp-api:1.0
           imagePullPolicy: Always
           ports:
             - containerPort: 4000
