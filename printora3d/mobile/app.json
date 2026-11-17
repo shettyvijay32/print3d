@@ -1,0 +1,1 @@
+{"expo":{"name":"Printora 3D","slug":"printora-3d","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","splash":{"backgroundColor":"#102d37"},"ios":{"supportsTablet":true,"bundleIdentifier":"com.yourbusiness.printora"},"android":{"package":"com.yourbusiness.printora","permissions":["READ_MEDIA_IMAGES"]},"plugins":["expo-image-picker"]}}
